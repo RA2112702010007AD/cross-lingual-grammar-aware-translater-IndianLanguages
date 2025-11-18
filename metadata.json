@@ -1,0 +1,7 @@
+{
+  "name": "Cross-Lingual Grammar-Aware Translation",
+  "description": "An advanced translation tool for Indian languages that provides not only accurate translations but also deep grammatical explanations, leveraging modern NLP transformers to bridge linguistic gaps.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
